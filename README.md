@@ -35,3 +35,6 @@ Praticar os seguintes conceitos de PHP usando apenas o terminal:
 ## Pesquisar
 - [Conversão de tipos](https://www.w3schools.com/php/php_casting.asp)
 - `number_format()` https://www.php.net/manual/pt_BR/function.number-format.php 
+---
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
+![Terminal](https://img.shields.io/badge/Ambiente-Terminal%20(CLI)-black?logo=windowsterminal)
