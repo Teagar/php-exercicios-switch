@@ -32,3 +32,5 @@ Praticar os seguintes conceitos de PHP usando apenas o terminal:
 - `switch($variavel) { case 'valor': ... break; }`  decisão múltipla
 - `if/else` decisão binária (sem `elseif`)
 
+## Pesquisar
+- `number_format()` https://www.php.net/manual/pt_BR/function.number-format.php 
